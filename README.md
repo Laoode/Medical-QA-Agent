@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=29&duration=1&pause=1000&color=000000&background=601EF9&vCenter=true&repeat=false&width=990&lines=Conversational+Agent+for+Medical+Question-Answering+Using+RAG+and+LLM" alt="Typing SVG" /></h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7a/7f/b3/7a7fb3decb94644a713454a70e0b5a43.gif" alt="Banner">
+  <img src="https://github.com/Laoode/Medical-QA-Agent/blob/main/assets/Banner.gif" alt="Banner">
 </div>
 
 ---
