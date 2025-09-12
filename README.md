@@ -111,15 +111,18 @@ In this study, the RAG concept with LLM was successfully applied to generate ans
 ## Citation
 If you use this work, please cite:
 ```
-@article{prayitno2025conversational,
-  title={Conversational Agent for Medical Question-Answering Using RAG and LLM},
-  author={Prayitno, La Ode Muhammad Yudhy and Nurfadilah, Annisa and Saudi, Septiyani Bayu and Tsunami, Widya Dwi and Sajiah, Adha Mashur},
-  journal={Journal of Artificial Intelligence and Engineering Applications},
-  volume={4},
-  number={3},
-  pages={1--10},
-  year={2025},
-  publisher={IOInformatics},
-  url={https://ioinformatic.org/index.php/JAIEA/article/view/1077/751}
+@article{pryaitno2025conversational,
+  author = {La Ode Muhammad Yudhy Pryaitno and Annisa Nurfadilah and Septiyani Bayu Saudi and Widya Dwi Tsunami and Adha Mashur Sajiah},
+  title = {Conversational Agent for Medical Question-Answering Using RAG and LLM},
+  journal = {Journal of Artificial Intelligence and Engineering Applications},
+  volume = {4},
+  number = {3},
+  pages = {1077},
+  year = {2025},
+  month = {June},
+  issn = {2808-4519},
+  doi = {10.59934/jaiea.v4i3.1077},
+  url = {https://ioinformatic.org/index.php/JAIEA/article/view/1077/751},
+  publisher = {Yayasan Kita Menulis}
 }
 ```
