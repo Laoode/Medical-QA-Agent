@@ -112,7 +112,7 @@ In this study, the RAG concept with LLM was successfully applied to generate ans
 ## Citation
 If you use this work, please cite:
 ```
-@article{pryaitno2025conversational,
+@article{prayitno2025conversational,
   author = {La Ode Muhammad Yudhy Pryaitno and Annisa Nurfadilah and Septiyani Bayu Saudi and Widya Dwi Tsunami and Adha Mashur Sajiah},
   title = {Conversational Agent for Medical Question-Answering Using RAG and LLM},
   journal = {Journal of Artificial Intelligence and Engineering Applications},
