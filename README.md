@@ -12,6 +12,7 @@
 4. [Data Collection](#data-collection)
 5. [Implementation](#implementation)
 6. [Conclusion](#conclusion)
+7. [Citation](#citation)
     
 ## Overview
 <p>
